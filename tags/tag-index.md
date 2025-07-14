@@ -5,11 +5,16 @@ This index organizes all prompts by their tags for easy discovery and navigation
 ## 🏷️ Tags by Category
 
 ### Communication & Leadership
-- **#communication**: [executive-communication.md](../prompts/writing/executive-communication.md)
-- **#leadership**: [executive-communication.md](../prompts/writing/executive-communication.md)
+- **#communication**: [executive-communication.md](../prompts/writing/executive-communication.md), [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#leadership**: [executive-communication.md](../prompts/writing/executive-communication.md), [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
 - **#executive**: [executive-communication.md](../prompts/writing/executive-communication.md)
 - **#clarity**: [executive-communication.md](../prompts/writing/executive-communication.md)
 - **#strategy**: [executive-communication.md](../prompts/writing/executive-communication.md)
+- **#email**: [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#advisory**: [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#board**: [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#stakeholder-management**: [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#professional**: [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
 
 ### Creative & Innovation
 - **#brainstorming**: [creative-problem-solving.md](../prompts/brainstorming/creative-problem-solving.md)
@@ -79,9 +84,9 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#decision-support**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 
 ## 📊 Tag Statistics
-- Total unique tags: 59
+- Total unique tags: 64
 - Most used category: Productivity & Efficiency with 22 tags
-- Total prompts indexed: 12
+- Total prompts indexed: 13
 
 ---
 
