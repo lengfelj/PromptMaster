@@ -5,7 +5,7 @@ This index organizes all prompts by their tags for easy discovery and navigation
 ## 🏷️ Tags by Category
 
 ### Communication & Leadership
-- **#communication**: [executive-communication.md](../prompts/writing/executive-communication.md), [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
+- **#communication**: [executive-communication.md](../prompts/writing/executive-communication.md), [advisor-email-response.md](../prompts/writing/advisor-email-response.md), [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#leadership**: [executive-communication.md](../prompts/writing/executive-communication.md), [advisor-email-response.md](../prompts/writing/advisor-email-response.md)
 - **#executive**: [executive-communication.md](../prompts/writing/executive-communication.md)
 - **#clarity**: [executive-communication.md](../prompts/writing/executive-communication.md)
@@ -32,7 +32,12 @@ This index organizes all prompts by their tags for easy discovery and navigation
 
 ### Productivity & Efficiency
 - **#meetings**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [one-on-one-meetings.md](../prompts/productivity/one-on-one-meetings.md), [team-retrospectives.md](../prompts/productivity/team-retrospectives.md), [facilitation-techniques.md](../prompts/productivity/facilitation-techniques.md), [meeting-assessment.md](../prompts/productivity/meeting-assessment.md)
-- **#productivity**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [one-on-one-meetings.md](../prompts/productivity/one-on-one-meetings.md), [team-retrospectives.md](../prompts/productivity/team-retrospectives.md), [meeting-assessment.md](../prompts/productivity/meeting-assessment.md)
+- **#productivity**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [one-on-one-meetings.md](../prompts/productivity/one-on-one-meetings.md), [team-retrospectives.md](../prompts/productivity/team-retrospectives.md), [meeting-assessment.md](../prompts/productivity/meeting-assessment.md), [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#presentations**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#planning**: [strategic-planning.md](../prompts/strategic/strategic-planning.md), [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#research**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#storytelling**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#structure**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#time-management**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md)
 - **#facilitation**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [facilitation-techniques.md](../prompts/productivity/facilitation-techniques.md)
 - **#efficiency**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md)
@@ -84,9 +89,9 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#decision-support**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 
 ## 📊 Tag Statistics
-- Total unique tags: 64
-- Most used category: Productivity & Efficiency with 22 tags
-- Total prompts indexed: 13
+- Total unique tags: 68
+- Most used category: Productivity & Efficiency with 26 tags
+- Total prompts indexed: 14
 
 ---
 
