@@ -46,6 +46,8 @@ Act as an experienced business advisor and board member with expertise in corpor
 - Urgency: [immediate same-day / within 48 hours / next weekly update]
 - Follow-up: [none needed / schedule meeting / defer to next board meeting]
 
+**Important**: Avoid em dashes (—) in the email response as they signal AI-generated content. Use regular dashes (-), commas, or restructure sentences for more natural communication.
+
 ---
 
 ## 🧪 Example Prompt

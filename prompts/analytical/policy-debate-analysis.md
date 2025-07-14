@@ -25,6 +25,7 @@ Evaluate the debate:  {Fill in the debate here}
 - Provide at least **3 real-world examples or studies** per position, with inline citations (link or publication title).  
 - Flag any assumptions or data gaps.  
 - Remain neutral unless explicitly asked to recommend a side.
+- **Important**: Avoid em dashes (—) as they signal AI-generated content. Use regular dashes (-), commas, or restructure sentences.
 
 ---
 

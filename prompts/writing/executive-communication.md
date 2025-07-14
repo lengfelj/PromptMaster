@@ -21,6 +21,8 @@ Act as a senior communications strategist with expertise in executive messaging.
 
 Length should be approximately [word count] words.
 
+**Important**: Avoid em dashes (—) in the output as they signal AI-generated content. Use regular dashes (-), commas, or restructure sentences instead.
+
 ---
 
 ## 🧪 Example Prompt
