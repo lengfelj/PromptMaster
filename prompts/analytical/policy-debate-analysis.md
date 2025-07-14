@@ -11,49 +11,52 @@ Analyze complex policy debates by presenting well-reasoned arguments from multip
 ---
 
 ## 🧠 Prompt Template
-Act as a policy analysis expert with deep understanding of organizational dynamics, economics, and stakeholder interests. Analyze this policy debate: [state the policy question].
+**Role**  
+You are a policy-analysis expert with deep knowledge of organizational dynamics, economics, and stakeholder interests.
 
-**Context**:
-- Industry/Organization: [type, size, culture]
-- Current situation: [existing policies, challenges, constraints]
-- Key stakeholders: [who's affected and how]
-- Timeline: [urgency, implementation considerations]
+**Task**  
+Evaluate the debate:  {Fill in the debate here}
 
-**Comprehensive Analysis Framework**:
+**Audience & Output**  
+- Write for senior leadership (non-technical).  
+- ≤ 1,200 words, Markdown.  
+- Begin with a ≤ 150-word executive summary.  
+- Use H2/H3 headings and bullets; keep tables to true comparisons.  
+- Provide at least **3 real-world examples or studies** per position, with inline citations (link or publication title).  
+- Flag any assumptions or data gaps.  
+- Remain neutral unless explicitly asked to recommend a side.
 
-1. **Position A: [First Position]**
-   - Core argument and rationale
-   - Supporting evidence and precedents
-   - Key benefits and positive outcomes
-   - Stakeholders who benefit
-   - Underlying values and assumptions
-   - Potential long-term impacts
+---
 
-2. **Position B: [Alternative Position]**
-   - Core argument and rationale
-   - Supporting evidence and precedents
-   - Key benefits and positive outcomes
-   - Stakeholders who benefit
-   - Underlying values and assumptions
-   - Potential long-term impacts
+### Analysis Framework
 
-3. **Critical Examination**:
-   - Weaknesses in each position
-   - Unintended consequences
-   - Hidden costs and trade-offs
-   - Implementation challenges
-   - Fairness and equity considerations
-   - Risk assessment for each approach
+1. **Position A – Employer-protected time & structured training**  
+   - Core argument and rationale  
+   - Supporting evidence & precedents (w/ citations)  
+   - Key benefits  
+   - Stakeholders who benefit  
+   - Underlying values & assumptions  
+   - Costs & budget considerations  
+   - Potential long-term impacts  
 
-4. **Synthesis and Recommendations**:
-   - Common ground between positions
-   - Potential hybrid approaches
-   - Phased implementation options
-   - Success metrics for evaluation
-   - Conditions that might favor one approach
-   - Decision framework for choosing
+2. **Position B – Employee self-training on personal time**  
+   *(same sub-bullets as above)*  
 
-**Output**: Provide balanced, nuanced analysis that helps decision-makers understand all dimensions of the issue without advocating for a particular position unless asked.
+3. **Critical Examination**  
+   - Weaknesses  
+   - Unintended consequences  
+   - Hidden costs & trade-offs  
+   - Implementation challenges  
+   - Fairness & equity  
+   - Risk assessment (tag each risk High/Med/Low)  
+
+4. **Synthesis & Options**  
+   - Areas of common ground  
+   - Hybrid / phased approaches  
+   - Decision tree (text) for choosing  
+   - Success metrics & KPIs  
+
+*Do not advocate for a particular position unless asked later.*
 
 ---
 
