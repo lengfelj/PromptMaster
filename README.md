@@ -11,30 +11,42 @@ PromptMaster is a curated repository of battle-tested prompts for Large Language
 ```
 PromptMaster/
 ├── prompts/
-│   ├── writing/           # Communication and writing prompts
+│   ├── analytical/        # Policy and debate analysis
 │   ├── brainstorming/     # Creative thinking and ideation
-│   ├── technical/         # Programming and technical tasks
-│   ├── productivity/      # Efficiency and time management
-│   └── learning/          # Skill acquisition and education
+│   ├── learning/          # Skill acquisition and education
+│   ├── productivity/      # Meeting optimization and efficiency (6 prompts)
+│   ├── strategic/         # Decision-making and strategic planning
+│   ├── technical/         # Code review and programming tasks
+│   └── writing/           # Executive communication and emails
 ├── templates/             # Reusable prompt templates
 ├── tags/                  # Tag-based navigation index
-└── README.md             # This file
+├── PROMPT-CATALOG.md      # Quick reference for all prompts
+├── CLAUDE.md              # Claude Code integration guide
+└── README.md              # This file
 ```
 
 ## 🚀 Quick Start
 
-1. **Browse by Category**: Navigate to the relevant folder in `prompts/`
-2. **Search by Tag**: Check the [tag index](tags/tag-index.md) for topic-based discovery
-3. **Use the Template**: Each prompt follows a consistent format with examples and tips
+### For Busy Professionals
+1. **Browse the [Prompt Catalog](PROMPT-CATALOG.md)** - All 15 prompts at a glance with time estimates
+2. **Pick your prompt** - Click the link to open the full template
+3. **Copy & customize** - Replace bracketed variables with your specifics
+4. **Paste into your AI** - Use with ChatGPT, Claude, or any LLM
 
-### Example Usage
+### For Deep Exploration
+- **Search by Tag**: Use the [tag index](tags/tag-index.md) for topic-based discovery (73 tags)
+- **Browse by Category**: Navigate directly to category folders in `prompts/`
+- **Follow Examples**: Each prompt includes concrete examples and usage tips
 
-Looking for help with executive communication? 
+### Example Workflow
 
-1. Open [`prompts/writing/executive-communication.md`](prompts/writing/executive-communication.md)
-2. Copy the prompt template
-3. Replace the variables with your specific context
-4. Paste into your favorite LLM interface
+Need help with executive communication? 
+
+1. Open the [Prompt Catalog](PROMPT-CATALOG.md) → Find "Executive Communication" 
+2. Click to [`prompts/writing/executive-communication.md`](prompts/writing/executive-communication.md)
+3. Copy the template: "Act as a senior communications strategist..."
+4. Replace variables: [communication type], [audience], [topic], [tone]
+5. Paste into your AI and get professional results in minutes
 
 ## 📝 Prompt Format
 
@@ -51,20 +63,18 @@ See the [prompt template](templates/prompt-template.md) for the complete structu
 
 ## 🏷️ Featured Prompts
 
-### Writing & Communication
-- [Executive Communication](prompts/writing/executive-communication.md) - Craft impactful messages for leadership scenarios
-
-### Brainstorming & Innovation  
-- [Creative Problem Solving](prompts/brainstorming/creative-problem-solving.md) - Generate innovative solutions using proven techniques
-
-### Technical & Development
-- [Code Review Assistant](prompts/technical/code-review-assistant.md) - Comprehensive code reviews with actionable feedback
-
-### Productivity & Efficiency
+**⚡ Most Popular**
 - [Meeting Optimizer](prompts/productivity/meeting-optimizer.md) - Transform meetings into productive, outcome-focused sessions
+- [Executive Communication](prompts/writing/executive-communication.md) - Craft impactful messages for leadership scenarios
+- [Decision Framework](prompts/strategic/decision-framework.md) - Structure complex decision-making processes
 
-### Learning & Development
-- [Skill Acquisition Accelerator](prompts/learning/skill-acquisition-accelerator.md) - Design personalized learning paths for rapid skill development
+**🎯 By Use Case**
+- **Leadership**: [Strategic Planning](prompts/strategic/strategic-planning.md), [One-on-One Meetings](prompts/productivity/one-on-one-meetings.md)
+- **Analysis**: [Policy Debate Analysis](prompts/analytical/policy-debate-analysis.md), [Topic Research Guide](prompts/learning/topic-research-guide.md)
+- **Innovation**: [Creative Problem Solving](prompts/brainstorming/creative-problem-solving.md), [Facilitation Techniques](prompts/productivity/facilitation-techniques.md)
+- **Communication**: [Advisor Email Response](prompts/writing/advisor-email-response.md), [Slide Deck Outliner](prompts/productivity/slide-deck-outliner.md)
+
+**📊 View All 15 Prompts**: See the complete [Prompt Catalog](PROMPT-CATALOG.md) with time estimates and use cases
 
 ## 🤝 Contributing
 
@@ -98,13 +108,24 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🌟 Getting Started
 
-Ready to level up your AI interactions? Start with these steps:
+**Ready to 10x your AI productivity? Pick your path:**
 
-1. ⭐ Star this repository to keep it handy
-2. 🔍 Explore the [tag index](tags/tag-index.md) to find relevant prompts
-3. 📖 Read a few examples to understand the format
-4. 🚀 Try your first prompt and iterate based on results
-5. 🤝 Share your improvements and new prompts with the community
+### 🚀 I Need Results Now (2 minutes)
+1. Open the [Prompt Catalog](PROMPT-CATALOG.md)
+2. Find a prompt that matches your current need
+3. Copy, customize, and paste into your AI - done!
+
+### 🎯 I Want to Explore (10 minutes)
+1. Browse by category in the `prompts/` folder
+2. Read the examples to understand the format
+3. Check the [tag index](tags/tag-index.md) for topic discovery
+4. Try 2-3 prompts and compare results
+
+### 🏆 I Want to Master This (30 minutes)
+1. Read the [prompt template](templates/prompt-template.md) to understand the structure
+2. Try one prompt from each category to see the range
+3. Experiment with the variants and tips sections
+4. Consider contributing your own prompts back to the community
 
 ---
 

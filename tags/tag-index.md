@@ -35,7 +35,7 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#productivity**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [one-on-one-meetings.md](../prompts/productivity/one-on-one-meetings.md), [team-retrospectives.md](../prompts/productivity/team-retrospectives.md), [meeting-assessment.md](../prompts/productivity/meeting-assessment.md), [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#presentations**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#planning**: [strategic-planning.md](../prompts/strategic/strategic-planning.md), [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
-- **#research**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
+- **#research**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md), [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
 - **#storytelling**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#structure**: [slide-deck-outliner.md](../prompts/productivity/slide-deck-outliner.md)
 - **#time-management**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md)
@@ -61,11 +61,16 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#optimization**: [meeting-assessment.md](../prompts/productivity/meeting-assessment.md)
 
 ### Learning & Development
-- **#learning**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md)
+- **#learning**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md), [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
 - **#skill-development**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md)
 - **#education**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md)
 - **#practice**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md)
 - **#mastery**: [skill-acquisition-accelerator.md](../prompts/learning/skill-acquisition-accelerator.md)
+- **#analysis**: [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
+- **#investigation**: [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
+- **#information-gathering**: [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
+- **#synthesis**: [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
+- **#critical-thinking**: [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
 
 ### Strategic Thinking
 - **#strategy**: [executive-communication.md](../prompts/writing/executive-communication.md), [decision-framework.md](../prompts/strategic/decision-framework.md), [strategic-planning.md](../prompts/strategic/strategic-planning.md)
@@ -80,18 +85,18 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#execution**: [strategic-planning.md](../prompts/strategic/strategic-planning.md)
 
 ### Analytical Thinking
-- **#analysis**: [decision-framework.md](../prompts/strategic/decision-framework.md), [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
+- **#analysis**: [decision-framework.md](../prompts/strategic/decision-framework.md), [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md), [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
 - **#debate**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 - **#policy**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
-- **#critical-thinking**: [decision-framework.md](../prompts/strategic/decision-framework.md), [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
+- **#critical-thinking**: [decision-framework.md](../prompts/strategic/decision-framework.md), [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md), [topic-research-guide.md](../prompts/learning/topic-research-guide.md)
 - **#perspectives**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 - **#argumentation**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 - **#decision-support**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 
 ## 📊 Tag Statistics
-- Total unique tags: 68
+- Total unique tags: 73
 - Most used category: Productivity & Efficiency with 26 tags
-- Total prompts indexed: 14
+- Total prompts indexed: 15
 
 ---
 
