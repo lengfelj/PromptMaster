@@ -29,6 +29,16 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#debugging**: [code-review-assistant.md](../prompts/technical/code-review-assistant.md)
 - **#best-practices**: [code-review-assistant.md](../prompts/technical/code-review-assistant.md)
 - **#refactoring**: [code-review-assistant.md](../prompts/technical/code-review-assistant.md)
+- **#data-analysis**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#statistics**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#insights**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#visualization**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#reporting**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#technical**: [code-review-assistant.md](../prompts/technical/code-review-assistant.md), [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#data-science**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#business-intelligence**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#metrics**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
+- **#analytics**: [data-analysis-expert.md](../prompts/technical/data-analysis-expert.md)
 
 ### Productivity & Efficiency
 - **#meetings**: [meeting-optimizer.md](../prompts/productivity/meeting-optimizer.md), [one-on-one-meetings.md](../prompts/productivity/one-on-one-meetings.md), [team-retrospectives.md](../prompts/productivity/team-retrospectives.md), [facilitation-techniques.md](../prompts/productivity/facilitation-techniques.md), [meeting-assessment.md](../prompts/productivity/meeting-assessment.md)
@@ -94,9 +104,9 @@ This index organizes all prompts by their tags for easy discovery and navigation
 - **#decision-support**: [policy-debate-analysis.md](../prompts/analytical/policy-debate-analysis.md)
 
 ## 📊 Tag Statistics
-- Total unique tags: 73
+- Total unique tags: 83
 - Most used category: Productivity & Efficiency with 26 tags
-- Total prompts indexed: 15
+- Total prompts indexed: 16
 
 ---
 

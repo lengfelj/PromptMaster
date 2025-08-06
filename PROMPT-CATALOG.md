@@ -38,11 +38,12 @@
 | [Skill Acquisition Accelerator](prompts/learning/skill-acquisition-accelerator.md) | Design personalized learning paths | Personal development, team skill building | 15-25 minutes |
 | [Creative Problem Solving](prompts/brainstorming/creative-problem-solving.md) | Generate innovative solutions | Product development, process improvement | 15-30 minutes |
 
-## ⚙️ Technical & Development (1 prompt)
+## ⚙️ Technical & Development (2 prompts)
 
 | Prompt | Purpose | Best For | Time to Use |
 |--------|---------|----------|-------------|
 | [Code Review Assistant](prompts/technical/code-review-assistant.md) | Comprehensive code reviews with feedback | Code quality improvement, mentoring developers | 10-20 minutes |
+| [Data Analysis Expert](prompts/technical/data-analysis-expert.md) | Transform data files into actionable insights | Business intelligence, statistical analysis, data reporting | 15-30 minutes |
 
 ---
 
@@ -64,10 +65,10 @@
 
 ## 📊 Usage Statistics
 
-- **Total Prompts**: 15
+- **Total Prompts**: 16
 - **Most Popular Category**: Meetings & Productivity (6 prompts)
 - **Average Setup Time**: 10-15 minutes
-- **Total Tags**: 73 for precise discovery
+- **Total Tags**: 83 for precise discovery
 
 ---
 
